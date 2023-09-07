@@ -1,7 +1,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=34ba8b&font=Fira+Code&size=35&repeat=false&width=435&height=50&lines=GeoCoord&center=true"></a>
-
+    <img src="https://readme-typing-svg.herokuapp.com?color=34ba8b&font=Fira+Code&size=35&repeat=false&width=400&height=50&lines=GeoCoord&center=true""></a>
 </p>
 
 <p align="center"><strong>Rectangular Riddle Adventure</strong></p>
