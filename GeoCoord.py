@@ -1,5 +1,5 @@
 from random import randint
-import sys
+#import sys - delete os
 
 class Point :
     def __init__(self, x, y):
@@ -25,9 +25,9 @@ except ValueError:
     user_x = float(input("Please enter a DIGIT for 'X': "))
 
 try:
-    user_y = float(input("Enter your value for 'X': "))
+    user_y = float(input("Enter your value for 'Y': "))
 except ValueError:
-    user_y = float(input("Please enter a DIGIT for 'X': "))
+    user_y = float(input("Please enter a DIGIT for 'Y': "))
 
 user_point = Point(user_x, user_y)
 
